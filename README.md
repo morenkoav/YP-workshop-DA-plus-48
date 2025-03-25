@@ -16,5 +16,5 @@
 
 **Сосатв материалов:**
 1. Исходные данные - файлы с выгрузками вакансий с портала hh.ru
-2. Блокнот jupiter
+2. [Блокнот jupiter](https://github.com/morenkoav/YP-workshop-DA-plus-48/blob/da56a0134520ead551e14afb05bcd7ad46427d8a/YP_workshop.ipynb)
 3. Презентация с основными результатами исследования
